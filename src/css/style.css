@@ -1,0 +1,87 @@
+.contatos-form{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.75), rgba(78, 76, 76, 0.5), rgba(2, 2, 2, 0.75)100% ) ,url('../imagem/pexels-cottonbro-3945657.jpg');
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    padding-top: 5%;
+    align-items: center;
+    flex-direction: column;
+}
+.fale-conosco{
+    display: flex;
+    align-items: flex-start;
+    /* background-color: red; */
+    width: 450px;
+    flex-direction: column;
+}
+.fale-conosco h3{
+    color: #dddada;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+.fale-conosco p{
+    color: #dddada;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    border: none;
+    width: 450px;
+    /* height: 450px; */
+    /* background-color: white; */
+}
+/* color: #854ee6; */
+.formulario .input-box{
+    width: 100%;
+    /* background-color: blue; */
+}
+.formulario .input-box input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: transparent;
+    border-radius: 8px;
+    color: #dddada;
+}
+.formulario .input-box textarea,select{
+    border: 1px solid;
+    resize: none;
+    color: #dddada;
+}
+.formulario .input-box input::placeholder,
+.formulario .input-box textarea::placeholder{
+    color: #dddada;
+    font-size: 14px;
+}
+
+.selecao select{
+    width: 100%;
+    padding: 10px;
+    background-color: transparent;
+    color: #dddada;
+    margin-bottom: 10px;
+    font-size: 14px;
+    border-radius: 8px;
+}
+.selecao select option {
+    background-color:#cfcbcb;
+    height: 300px;
+}
+.selecao select option a{
+    font-size: 15px;
+}
+.btn-formulario{
+    height: 48px;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+    background:linear-gradient(rgba(0, 0, 0, 0.75), rgba(240, 240, 240, 0.5)100% ) ;
+    color: #fff;
+    transition: .3s ease-in-out;
+}
+.btn-formulario:hover{
+    transform: scale(1.06);
+    opacity: .8;
+    
+}
