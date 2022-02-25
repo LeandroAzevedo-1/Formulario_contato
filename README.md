@@ -1,2 +1,7 @@
-# secao-contato-museu
-Secção de contato da pagina museu 
+# Seção de contado da pagina museus 
+  Participação: [https://github.com/Allanlima123] 
+  
+- Tecnologias utilizada 
+  - HTML | CSS    
+
+
