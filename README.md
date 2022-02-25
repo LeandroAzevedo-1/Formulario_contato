@@ -1,4 +1,4 @@
-# Seção de contado da pagina museus 
+# Seção de contado da pagina museu
   Participação: [https://github.com/Allanlima123] 
   
 - Tecnologias utilizada 
