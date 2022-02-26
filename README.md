@@ -3,5 +3,4 @@
   
 - Tecnologias utilizadas
   - HTML | CSS    
-   Veja como ficou o resultado:[https://alfa-leo-1.github.io/secao-contato-museu/]
-
+   
